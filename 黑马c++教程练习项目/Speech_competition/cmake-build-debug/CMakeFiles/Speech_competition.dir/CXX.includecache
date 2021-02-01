@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/shexuan/BlackHorseCpp/Speech_competition/speaker.h
+iostream
+-
+string
+-
+
+/Users/shexuan/BlackHorseCpp/Speech_competition/speech_manager.cpp
+speech_manager.h
+/Users/shexuan/BlackHorseCpp/Speech_competition/speech_manager.h
+iostream
+-
+string
+-
+algorithm
+-
+random
+-
+numeric
+-
+set
+-
+fstream
+-
+
+/Users/shexuan/BlackHorseCpp/Speech_competition/speech_manager.h
+iostream
+-
+string
+-
+vector
+-
+map
+-
+speaker.h
+/Users/shexuan/BlackHorseCpp/Speech_competition/speaker.h
+

@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Speech_competition"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/shexuan/BlackHorseCpp/Speech_competition/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/shexuan/BlackHorseCpp/Speech_competition/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/shexuan/BlackHorseCpp/Speech_competition/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/shexuan/BlackHorseCpp/Speech_competition/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/shexuan/BlackHorseCpp/Speech_competition/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/shexuan/BlackHorseCpp/Speech_competition/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/shexuan/BlackHorseCpp/Speech_competition/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/shexuan/BlackHorseCpp/Speech_competition/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/shexuan/BlackHorseCpp/Speech_competition/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/shexuan/BlackHorseCpp/Speech_competition/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/shexuan/BlackHorseCpp/Speech_competition/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/shexuan/BlackHorseCpp/Speech_competition/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/shexuan/BlackHorseCpp/Speech_competition/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/shexuan/BlackHorseCpp/Speech_competition/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/shexuan/BlackHorseCpp/Speech_competition/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Speech_competition">
+				<Option output="/Users/shexuan/BlackHorseCpp/Speech_competition/cmake-build-debug/Speech_competition" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shexuan/BlackHorseCpp/Speech_competition/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/shexuan/BlackHorseCpp/Speech_competition/cmake-build-debug/Makefile&quot;  VERBOSE=1 Speech_competition"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/shexuan/BlackHorseCpp/Speech_competition/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/shexuan/BlackHorseCpp/Speech_competition/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/shexuan/BlackHorseCpp/Speech_competition/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Speech_competition/fast">
+				<Option output="/Users/shexuan/BlackHorseCpp/Speech_competition/cmake-build-debug/Speech_competition" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shexuan/BlackHorseCpp/Speech_competition/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/shexuan/BlackHorseCpp/Speech_competition/cmake-build-debug/Makefile&quot;  VERBOSE=1 Speech_competition/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/shexuan/BlackHorseCpp/Speech_competition/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/shexuan/BlackHorseCpp/Speech_competition/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/shexuan/BlackHorseCpp/Speech_competition/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/shexuan/BlackHorseCpp/Speech_competition/main.cpp">
+			<Option target="Speech_competition"/>
+		</Unit>
+		<Unit filename="/Users/shexuan/BlackHorseCpp/Speech_competition/speaker.cpp">
+			<Option target="Speech_competition"/>
+		</Unit>
+		<Unit filename="/Users/shexuan/BlackHorseCpp/Speech_competition/speaker.h">
+			<Option target="Speech_competition"/>
+		</Unit>
+		<Unit filename="/Users/shexuan/BlackHorseCpp/Speech_competition/speech_manager.cpp">
+			<Option target="Speech_competition"/>
+		</Unit>
+		<Unit filename="/Users/shexuan/BlackHorseCpp/Speech_competition/speech_manager.h">
+			<Option target="Speech_competition"/>
+		</Unit>
+		<Unit filename="/Users/shexuan/BlackHorseCpp/Speech_competition/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

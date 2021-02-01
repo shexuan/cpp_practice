@@ -1,0 +1,3 @@
+/Users/shexuan/BlackHorseCpp/Speech_competition/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/shexuan/BlackHorseCpp/Speech_competition/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/shexuan/BlackHorseCpp/Speech_competition/cmake-build-debug/CMakeFiles/Speech_competition.dir

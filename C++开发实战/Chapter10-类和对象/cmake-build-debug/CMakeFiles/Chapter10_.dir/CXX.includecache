@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/shexuan/cpp_practice/C++开发实战/Chapter10-类和对象/listNode.h
+iostream
+-
+string
+-
+
+/Users/shexuan/cpp_practice/C++开发实战/Chapter10-类和对象/main.cpp
+iostream
+-
+student.h
+/Users/shexuan/cpp_practice/C++开发实战/Chapter10-类和对象/student.h
+vector
+-
+random
+-
+algorithm
+-
+listNode.h
+/Users/shexuan/cpp_practice/C++开发实战/Chapter10-类和对象/listNode.h
+stack
+-
+studentNode.h
+/Users/shexuan/cpp_practice/C++开发实战/Chapter10-类和对象/studentNode.h
+
+/Users/shexuan/cpp_practice/C++开发实战/Chapter10-类和对象/student.h
+iostream
+-
+string
+-
+
+/Users/shexuan/cpp_practice/C++开发实战/Chapter10-类和对象/studentNode.h
+iostream
+-
+string
+-
+

@@ -1,0 +1,42 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/shexuan/cpp_practice/C++开发实战/Chapter11-继承和派生/listNode.h
+string
+-
+iostream
+-
+
+/Users/shexuan/cpp_practice/C++开发实战/Chapter11-继承和派生/main.cpp
+iostream
+-
+matrix.h
+/Users/shexuan/cpp_practice/C++开发实战/Chapter11-继承和派生/matrix.h
+string
+-
+listNode.h
+/Users/shexuan/cpp_practice/C++开发实战/Chapter11-继承和派生/listNode.h
+polygon.h
+/Users/shexuan/cpp_practice/C++开发实战/Chapter11-继承和派生/polygon.h
+
+/Users/shexuan/cpp_practice/C++开发实战/Chapter11-继承和派生/matrix.h
+iostream
+-
+string
+-
+random
+-
+cassert
+-
+
+/Users/shexuan/cpp_practice/C++开发实战/Chapter11-继承和派生/polygon.h
+iostream
+-
+string
+-
+

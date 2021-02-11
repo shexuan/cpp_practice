@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/shexuan/cpp_practice/C++开发实战/Chapter12-模板/main.cpp
+iostream
+-
+string
+-
+simpleList.h
+/Users/shexuan/cpp_practice/C++开发实战/Chapter12-模板/simpleList.h
+point3d.h
+/Users/shexuan/cpp_practice/C++开发实战/Chapter12-模板/point3d.h
+random
+-
+algorithm
+-
+
+/Users/shexuan/cpp_practice/C++开发实战/Chapter12-模板/point3d.h
+iostream
+-
+string
+-
+
+/Users/shexuan/cpp_practice/C++开发实战/Chapter12-模板/simpleList.h
+iostream
+-
+string
+-
+

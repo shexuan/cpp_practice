@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/shexuan/cpp_practice/C++开发实战/Chapter14-图书馆管理系统/book.h
+string
+-
+iostream
+-
+
+/Users/shexuan/cpp_practice/C++开发实战/Chapter14-图书馆管理系统/bookManager.cpp
+fstream
+-
+bookManager.h
+/Users/shexuan/cpp_practice/C++开发实战/Chapter14-图书馆管理系统/bookManager.h
+
+/Users/shexuan/cpp_practice/C++开发实战/Chapter14-图书馆管理系统/bookManager.h
+string
+-
+iostream
+-
+vector
+-
+fstream
+-
+algorithm
+-
+book.h
+/Users/shexuan/cpp_practice/C++开发实战/Chapter14-图书馆管理系统/book.h
+

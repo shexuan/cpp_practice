@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/shexuan/cpp_practice/C++开发实战/Chapter16-STL标准模板库/goods.h
+string
+-
+utility
+-
+vector
+-
+iostream
+-
+
+/Users/shexuan/cpp_practice/C++开发实战/Chapter16-STL标准模板库/main.cpp
+iostream
+-
+goods.h
+/Users/shexuan/cpp_practice/C++开发实战/Chapter16-STL标准模板库/goods.h
+string
+-
+vector
+-
+

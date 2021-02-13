@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/shexuan/cpp_practice/C++开发实战/Chapter16-STL标准模板库
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/shexuan/cpp_practice/C++开发实战/Chapter16-STL标准模板库/cmake-build-debug

@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/shexuan/cpp_practice/C++开发实战/Chapter18-商品销售系统/commodity.h
+string
+-
+iostream
+-
+
+/Users/shexuan/cpp_practice/C++开发实战/Chapter18-商品销售系统/globalFile.h
+
+/Users/shexuan/cpp_practice/C++开发实战/Chapter18-商品销售系统/main.cpp
+iostream
+-
+string
+-
+salesManager.h
+/Users/shexuan/cpp_practice/C++开发实战/Chapter18-商品销售系统/salesManager.h
+
+/Users/shexuan/cpp_practice/C++开发实战/Chapter18-商品销售系统/records.h
+string
+-
+utility
+-
+vector
+-
+
+/Users/shexuan/cpp_practice/C++开发实战/Chapter18-商品销售系统/salesManager.h
+commodity.h
+/Users/shexuan/cpp_practice/C++开发实战/Chapter18-商品销售系统/commodity.h
+records.h
+/Users/shexuan/cpp_practice/C++开发实战/Chapter18-商品销售系统/records.h
+globalFile.h
+/Users/shexuan/cpp_practice/C++开发实战/Chapter18-商品销售系统/globalFile.h
+vector
+-
+string
+-
+fstream
+-
+

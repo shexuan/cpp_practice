@@ -1,0 +1,4 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针/滑窗问题)
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针/滑窗问题)/cmake-build-debug

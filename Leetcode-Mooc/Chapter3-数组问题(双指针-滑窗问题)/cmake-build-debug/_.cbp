@@ -8,38 +8,38 @@
 		<Option virtualFolders="CMake Files\;"/>
 		<Build>
 			<Target title="all">
-				<Option working_dir="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针/滑窗问题)/cmake-build-debug"/>
+				<Option working_dir="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针-滑窗问题)/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针/滑窗问题)/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针/滑窗问题)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针/滑窗问题)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针/滑窗问题)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针-滑窗问题)/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针-滑窗问题)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针-滑窗问题)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针-滑窗问题)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="rebuild_cache">
-				<Option working_dir="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针/滑窗问题)/cmake-build-debug"/>
+				<Option working_dir="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针-滑窗问题)/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针/滑窗问题)/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针/滑窗问题)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针/滑窗问题)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针/滑窗问题)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针-滑窗问题)/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针-滑窗问题)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针-滑窗问题)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针-滑窗问题)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="edit_cache">
-				<Option working_dir="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针/滑窗问题)/cmake-build-debug"/>
+				<Option working_dir="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针-滑窗问题)/cmake-build-debug"/>
 				<Option type="4"/>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针/滑窗问题)/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针/滑窗问题)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针/滑窗问题)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针/滑窗问题)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针-滑窗问题)/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针-滑窗问题)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针-滑窗问题)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针-滑窗问题)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="_">
-				<Option output="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针/滑窗问题)/cmake-build-debug/_" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针/滑窗问题)/cmake-build-debug"/>
+				<Option output="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针-滑窗问题)/cmake-build-debug/_" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针-滑窗问题)/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -52,15 +52,15 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针/滑窗问题)/cmake-build-debug/Makefile&quot;  VERBOSE=1 _"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针/滑窗问题)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针/滑窗问题)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针/滑窗问题)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针-滑窗问题)/cmake-build-debug/Makefile&quot;  VERBOSE=1 _"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针-滑窗问题)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针-滑窗问题)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针-滑窗问题)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 			<Target title="_/fast">
-				<Option output="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针/滑窗问题)/cmake-build-debug/_" prefix_auto="0" extension_auto="0"/>
-				<Option working_dir="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针/滑窗问题)/cmake-build-debug"/>
+				<Option output="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针-滑窗问题)/cmake-build-debug/_" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针-滑窗问题)/cmake-build-debug"/>
 				<Option object_output="./"/>
 				<Option type="1"/>
 				<Option compiler="gcc"/>
@@ -73,29 +73,47 @@
 					<Add directory="/Library/Frameworks"/>
 				</Compiler>
 				<MakeCommands>
-					<Build command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针/滑窗问题)/cmake-build-debug/Makefile&quot;  VERBOSE=1 _/fast"/>
-					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针/滑窗问题)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
-					<Clean command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针/滑窗问题)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
-					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针/滑窗问题)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针-滑窗问题)/cmake-build-debug/Makefile&quot;  VERBOSE=1 _/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针-滑窗问题)/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针-滑窗问题)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针-滑窗问题)/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针/滑窗问题)/Q26_Remove_Duplicates_from_Sorted_Array.h">
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针-滑窗问题)/Q11_Container_With_Most_Water.h">
 			<Option target="_"/>
 		</Unit>
-		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针/滑窗问题)/Q27_Remove_Element.h">
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针-滑窗问题)/Q125_Valid_Palindrome.h">
 			<Option target="_"/>
 		</Unit>
-		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针/滑窗问题)/Q283_Move_Zeros.h">
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针-滑窗问题)/Q167_Two_Sum_II-Input_array_is_sorted.h">
 			<Option target="_"/>
 		</Unit>
-		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针/滑窗问题)/Q80_Remove_Duplicates_from_Sorted_Array_II.h">
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针-滑窗问题)/Q26_Remove_Duplicates_from_Sorted_Array.h">
 			<Option target="_"/>
 		</Unit>
-		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针/滑窗问题)/main.cpp">
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针-滑窗问题)/Q27_Remove_Element.h">
 			<Option target="_"/>
 		</Unit>
-		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针/滑窗问题)/CMakeLists.txt">
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针-滑窗问题)/Q283_Move_Zeros.h">
+			<Option target="_"/>
+		</Unit>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针-滑窗问题)/Q344_Reverse_String.h">
+			<Option target="_"/>
+		</Unit>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针-滑窗问题)/Q345_Reverse_Vowels_of_a_String.h">
+			<Option target="_"/>
+		</Unit>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针-滑窗问题)/Q75_Sort_Colors.h">
+			<Option target="_"/>
+		</Unit>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针-滑窗问题)/Q80_Remove_Duplicates_from_Sorted_Array_II.h">
+			<Option target="_"/>
+		</Unit>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针-滑窗问题)/main.cpp">
+			<Option target="_"/>
+		</Unit>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针-滑窗问题)/CMakeLists.txt">
 			<Option virtualFolder="CMake Files\"/>
 		</Unit>
 	</Project>

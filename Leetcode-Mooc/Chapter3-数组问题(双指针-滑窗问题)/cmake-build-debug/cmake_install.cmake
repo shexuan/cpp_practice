@@ -1,4 +1,4 @@
-# Install script for directory: /Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针/滑窗问题)
+# Install script for directory: /Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针-滑窗问题)
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -40,5 +40,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针/滑窗问题)/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针-滑窗问题)/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

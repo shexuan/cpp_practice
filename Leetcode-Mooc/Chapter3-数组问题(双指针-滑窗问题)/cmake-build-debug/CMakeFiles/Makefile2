@@ -44,10 +44,10 @@ RM = /Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = "/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针/滑窗问题)"
+CMAKE_SOURCE_DIR = "/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针-滑窗问题)"
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = "/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针/滑窗问题)/cmake-build-debug"
+CMAKE_BINARY_DIR = "/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针-滑窗问题)/cmake-build-debug"
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -74,14 +74,14 @@ preinstall:
 CMakeFiles/_.dir/all:
 	$(MAKE) -f CMakeFiles/_.dir/build.make CMakeFiles/_.dir/depend
 	$(MAKE) -f CMakeFiles/_.dir/build.make CMakeFiles/_.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针/滑窗问题)/cmake-build-debug/CMakeFiles" --progress-num=1,2 "Built target _"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针-滑窗问题)/cmake-build-debug/CMakeFiles" --progress-num=1,2 "Built target _"
 .PHONY : CMakeFiles/_.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/_.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针/滑窗问题)/cmake-build-debug/CMakeFiles" 2
+	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针-滑窗问题)/cmake-build-debug/CMakeFiles" 2
 	$(MAKE) -f CMakeFiles/Makefile2 CMakeFiles/_.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针/滑窗问题)/cmake-build-debug/CMakeFiles" 0
+	$(CMAKE_COMMAND) -E cmake_progress_start "/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针-滑窗问题)/cmake-build-debug/CMakeFiles" 0
 .PHONY : CMakeFiles/_.dir/rule
 
 # Convenience name for target.

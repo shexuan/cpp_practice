@@ -4,7 +4,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针/滑窗问题)/main.cpp" "/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针/滑窗问题)/cmake-build-debug/CMakeFiles/_.dir/main.cpp.o"
+  "/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针-滑窗问题)/main.cpp" "/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针-滑窗问题)/cmake-build-debug/CMakeFiles/_.dir/main.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

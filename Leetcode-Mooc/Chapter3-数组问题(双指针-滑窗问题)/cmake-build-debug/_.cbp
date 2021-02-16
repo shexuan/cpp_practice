@@ -89,6 +89,9 @@
 		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针-滑窗问题)/Q167_Two_Sum_II-Input_array_is_sorted.h">
 			<Option target="_"/>
 		</Unit>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针-滑窗问题)/Q209_Minimum_Size_Subarray_Sum.h">
+			<Option target="_"/>
+		</Unit>
 		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针-滑窗问题)/Q26_Remove_Duplicates_from_Sorted_Array.h">
 			<Option target="_"/>
 		</Unit>
@@ -102,6 +105,9 @@
 			<Option target="_"/>
 		</Unit>
 		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针-滑窗问题)/Q345_Reverse_Vowels_of_a_String.h">
+			<Option target="_"/>
+		</Unit>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针-滑窗问题)/Q3_Longest_Substring_Without_Repeating_Characters.h">
 			<Option target="_"/>
 		</Unit>
 		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针-滑窗问题)/Q75_Sort_Colors.h">

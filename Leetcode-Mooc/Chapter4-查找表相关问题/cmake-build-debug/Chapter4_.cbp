@@ -86,6 +86,12 @@
 		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter4-查找表相关问题/Q205_Isomorphic_Strings.h">
 			<Option target="Chapter4_"/>
 		</Unit>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter4-查找表相关问题/Q217_Contains_Duplicate.h">
+			<Option target="Chapter4_"/>
+		</Unit>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter4-查找表相关问题/Q219_Contains_Duplicate_II.h">
+			<Option target="Chapter4_"/>
+		</Unit>
 		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter4-查找表相关问题/Q242_Valid_Anagram.h">
 			<Option target="Chapter4_"/>
 		</Unit>

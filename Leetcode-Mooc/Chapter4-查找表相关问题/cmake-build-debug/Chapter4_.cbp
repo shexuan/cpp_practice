@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Chapter4_"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter4-查找表相关问题/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter4-查找表相关问题/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter4-查找表相关问题/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter4-查找表相关问题/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter4-查找表相关问题/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter4-查找表相关问题/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter4-查找表相关问题/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter4-查找表相关问题/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter4-查找表相关问题/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter4-查找表相关问题/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter4-查找表相关问题/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter4-查找表相关问题/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter4-查找表相关问题/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter4-查找表相关问题/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter4-查找表相关问题/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Chapter4_">
+				<Option output="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter4-查找表相关问题/cmake-build-debug/Chapter4_" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter4-查找表相关问题/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter4-查找表相关问题/cmake-build-debug/Makefile&quot;  VERBOSE=1 Chapter4_"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter4-查找表相关问题/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter4-查找表相关问题/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter4-查找表相关问题/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Chapter4_/fast">
+				<Option output="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter4-查找表相关问题/cmake-build-debug/Chapter4_" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter4-查找表相关问题/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter4-查找表相关问题/cmake-build-debug/Makefile&quot;  VERBOSE=1 Chapter4_/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter4-查找表相关问题/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter4-查找表相关问题/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter4-查找表相关问题/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter4-查找表相关问题/Q202_Happy_Number.h">
+			<Option target="Chapter4_"/>
+		</Unit>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter4-查找表相关问题/Q205_Isomorphic_Strings.h">
+			<Option target="Chapter4_"/>
+		</Unit>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter4-查找表相关问题/Q242_Valid_Anagram.h">
+			<Option target="Chapter4_"/>
+		</Unit>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter4-查找表相关问题/Q290_Word_Pattern.h">
+			<Option target="Chapter4_"/>
+		</Unit>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter4-查找表相关问题/Q451_Sort_Characters_By_Frequency.h">
+			<Option target="Chapter4_"/>
+		</Unit>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter4-查找表相关问题/Q454_4Sum_II.h">
+			<Option target="Chapter4_"/>
+		</Unit>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter4-查找表相关问题/main.cpp">
+			<Option target="Chapter4_"/>
+		</Unit>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter4-查找表相关问题/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

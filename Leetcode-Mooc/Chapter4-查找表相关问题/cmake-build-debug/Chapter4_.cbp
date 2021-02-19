@@ -98,6 +98,12 @@
 		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter4-查找表相关问题/Q290_Word_Pattern.h">
 			<Option target="Chapter4_"/>
 		</Unit>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter4-查找表相关问题/Q349_Intersection_of_Two_Arrays.h">
+			<Option target="Chapter4_"/>
+		</Unit>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter4-查找表相关问题/Q350_Intersection_of_Two_Arrays_II .h">
+			<Option target="Chapter4_"/>
+		</Unit>
 		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter4-查找表相关问题/Q451_Sort_Characters_By_Frequency.h">
 			<Option target="Chapter4_"/>
 		</Unit>

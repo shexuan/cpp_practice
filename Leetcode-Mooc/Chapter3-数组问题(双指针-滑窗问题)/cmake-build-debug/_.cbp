@@ -86,7 +86,16 @@
 		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针-滑窗问题)/Q125_Valid_Palindrome.h">
 			<Option target="_"/>
 		</Unit>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针-滑窗问题)/Q15_3Sum.h">
+			<Option target="_"/>
+		</Unit>
 		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针-滑窗问题)/Q167_Two_Sum_II-Input_array_is_sorted.h">
+			<Option target="_"/>
+		</Unit>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针-滑窗问题)/Q16_3Sum_Closest.h">
+			<Option target="_"/>
+		</Unit>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针-滑窗问题)/Q18_4Sum.h">
 			<Option target="_"/>
 		</Unit>
 		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针-滑窗问题)/Q209_Minimum_Size_Subarray_Sum.h">
@@ -108,6 +117,9 @@
 			<Option target="_"/>
 		</Unit>
 		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针-滑窗问题)/Q3_Longest_Substring_Without_Repeating_Characters.h">
+			<Option target="_"/>
+		</Unit>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针-滑窗问题)/Q438_Find_All_Anagrams_in_a_String.h">
 			<Option target="_"/>
 		</Unit>
 		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter3-数组问题(双指针-滑窗问题)/Q75_Sort_Colors.h">

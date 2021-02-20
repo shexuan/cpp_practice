@@ -104,10 +104,16 @@
 		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter4-查找表相关问题/Q350_Intersection_of_Two_Arrays_II .h">
 			<Option target="Chapter4_"/>
 		</Unit>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter4-查找表相关问题/Q447_Number_of_Boomerangs.h">
+			<Option target="Chapter4_"/>
+		</Unit>
 		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter4-查找表相关问题/Q451_Sort_Characters_By_Frequency.h">
 			<Option target="Chapter4_"/>
 		</Unit>
 		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter4-查找表相关问题/Q454_4Sum_II.h">
+			<Option target="Chapter4_"/>
+		</Unit>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter4-查找表相关问题/Q49_Group_Anagrams.h">
 			<Option target="Chapter4_"/>
 		</Unit>
 		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter4-查找表相关问题/main.cpp">

@@ -83,6 +83,24 @@
 		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter5-在链表中穿针引线/Q206_Reverse_Linked_List.h">
 			<Option target="Chapter5_"/>
 		</Unit>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter5-在链表中穿针引线/Q21_Merge_Two_Sorted_Lists.h">
+			<Option target="Chapter5_"/>
+		</Unit>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter5-在链表中穿针引线/Q24_Swap_Nodes_in_Pairs.h">
+			<Option target="Chapter5_"/>
+		</Unit>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter5-在链表中穿针引线/Q445_Add_Two_Numbers_II.h">
+			<Option target="Chapter5_"/>
+		</Unit>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter5-在链表中穿针引线/Q61_Rotate_List.h">
+			<Option target="Chapter5_"/>
+		</Unit>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter5-在链表中穿针引线/Q剑指_Offer_35_复杂链表的复制.h">
+			<Option target="Chapter5_"/>
+		</Unit>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter5-在链表中穿针引线/Q面试题_02_02_Kth_Node_From_End_of_List_LCCI.h">
+			<Option target="Chapter5_"/>
+		</Unit>
 		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter5-在链表中穿针引线/main.cpp">
 			<Option target="Chapter5_"/>
 		</Unit>

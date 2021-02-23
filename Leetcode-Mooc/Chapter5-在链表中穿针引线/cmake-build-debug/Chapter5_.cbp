@@ -80,6 +80,15 @@
 				</MakeCommands>
 			</Target>
 		</Build>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter5-在链表中穿针引线/Q143_Reorder_List.h">
+			<Option target="Chapter5_"/>
+		</Unit>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter5-在链表中穿针引线/Q19_Remove_Nth_Node_From_End_of_List.h">
+			<Option target="Chapter5_"/>
+		</Unit>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter5-在链表中穿针引线/Q203_Remove_Linked_List_Elements.h">
+			<Option target="Chapter5_"/>
+		</Unit>
 		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter5-在链表中穿针引线/Q206_Reverse_Linked_List.h">
 			<Option target="Chapter5_"/>
 		</Unit>
@@ -89,10 +98,28 @@
 		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter5-在链表中穿针引线/Q24_Swap_Nodes_in_Pairs.h">
 			<Option target="Chapter5_"/>
 		</Unit>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter5-在链表中穿针引线/Q2_Add_Two_Numbers.h">
+			<Option target="Chapter5_"/>
+		</Unit>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter5-在链表中穿针引线/Q328_Odd_Even_Linked_List.h">
+			<Option target="Chapter5_"/>
+		</Unit>
 		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter5-在链表中穿针引线/Q445_Add_Two_Numbers_II.h">
 			<Option target="Chapter5_"/>
 		</Unit>
 		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter5-在链表中穿针引线/Q61_Rotate_List.h">
+			<Option target="Chapter5_"/>
+		</Unit>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter5-在链表中穿针引线/Q82_Remove_Duplicates_from_Sorted_List_II.h">
+			<Option target="Chapter5_"/>
+		</Unit>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter5-在链表中穿针引线/Q83_Remove_Duplicates_from_Sorted_List.h">
+			<Option target="Chapter5_"/>
+		</Unit>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter5-在链表中穿针引线/Q876_Middle_of_the_Linked_List.h">
+			<Option target="Chapter5_"/>
+		</Unit>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter5-在链表中穿针引线/Q92_Reverse_Linked_List_II.h">
 			<Option target="Chapter5_"/>
 		</Unit>
 		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter5-在链表中穿针引线/Q剑指_Offer_35_复杂链表的复制.h">

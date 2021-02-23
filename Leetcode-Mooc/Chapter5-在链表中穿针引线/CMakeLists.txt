@@ -3,4 +3,4 @@ project(Chapter5_)
 
 set(CMAKE_CXX_STANDARD 11)
 
-add_executable(Chapter5_ main.cpp Q206_Reverse_Linked_List.h Q面试题_02_02_Kth_Node_From_End_of_List_LCCI.h Q剑指_Offer_35_复杂链表的复制.h Q61_Rotate_List.h Q21_Merge_Two_Sorted_Lists.h Q445_Add_Two_Numbers_II.h Q24_Swap_Nodes_in_Pairs.h)
+add_executable(Chapter5_ main.cpp Q206_Reverse_Linked_List.h Q面试题_02_02_Kth_Node_From_End_of_List_LCCI.h Q剑指_Offer_35_复杂链表的复制.h Q61_Rotate_List.h Q21_Merge_Two_Sorted_Lists.h Q445_Add_Two_Numbers_II.h Q24_Swap_Nodes_in_Pairs.h Q2_Add_Two_Numbers.h Q92_Reverse_Linked_List_II.h Q19_Remove_Nth_Node_From_End_of_List.h Q82_Remove_Duplicates_from_Sorted_List_II.h Q83_Remove_Duplicates_from_Sorted_List.h Q328_Odd_Even_Linked_List.h Q203_Remove_Linked_List_Elements.h Q143_Reorder_List.h Q876_Middle_of_the_Linked_List.h)

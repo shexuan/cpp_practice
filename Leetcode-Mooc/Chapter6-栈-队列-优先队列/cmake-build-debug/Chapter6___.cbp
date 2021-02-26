@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Chapter6___"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter6-栈-队列-优先队列/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter6-栈-队列-优先队列/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter6-栈-队列-优先队列/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter6-栈-队列-优先队列/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter6-栈-队列-优先队列/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter6-栈-队列-优先队列/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter6-栈-队列-优先队列/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter6-栈-队列-优先队列/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter6-栈-队列-优先队列/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter6-栈-队列-优先队列/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter6-栈-队列-优先队列/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter6-栈-队列-优先队列/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter6-栈-队列-优先队列/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter6-栈-队列-优先队列/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter6-栈-队列-优先队列/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Chapter6___">
+				<Option output="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter6-栈-队列-优先队列/cmake-build-debug/Chapter6___" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter6-栈-队列-优先队列/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter6-栈-队列-优先队列/cmake-build-debug/Makefile&quot;  VERBOSE=1 Chapter6___"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter6-栈-队列-优先队列/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter6-栈-队列-优先队列/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter6-栈-队列-优先队列/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Chapter6___/fast">
+				<Option output="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter6-栈-队列-优先队列/cmake-build-debug/Chapter6___" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter6-栈-队列-优先队列/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter6-栈-队列-优先队列/cmake-build-debug/Makefile&quot;  VERBOSE=1 Chapter6___/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter6-栈-队列-优先队列/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter6-栈-队列-优先队列/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter6-栈-队列-优先队列/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter6-栈-队列-优先队列/Q102_Binary_Tree_Level_Order_Traversal.h">
+			<Option target="Chapter6___"/>
+		</Unit>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter6-栈-队列-优先队列/Q103_Binary_Tree_Zigzag_Level_Order_Traversal.h">
+			<Option target="Chapter6___"/>
+		</Unit>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter6-栈-队列-优先队列/Q144_Binary_Tree_Preorder_Traversal.h">
+			<Option target="Chapter6___"/>
+		</Unit>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter6-栈-队列-优先队列/Q145_Binary_Tree_Postorder_Traversal.h">
+			<Option target="Chapter6___"/>
+		</Unit>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter6-栈-队列-优先队列/Q150_Evaluate_Reverse_Polish_Notation.h">
+			<Option target="Chapter6___"/>
+		</Unit>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter6-栈-队列-优先队列/Q199_Binary_Tree_Right_Side_View.h">
+			<Option target="Chapter6___"/>
+		</Unit>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter6-栈-队列-优先队列/Q20_Valid_Parentheses.h">
+			<Option target="Chapter6___"/>
+		</Unit>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter6-栈-队列-优先队列/Q279_Perfect_Squares.h">
+			<Option target="Chapter6___"/>
+		</Unit>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter6-栈-队列-优先队列/Q341_Flatten_Nested_List_Iterator.h">
+			<Option target="Chapter6___"/>
+		</Unit>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter6-栈-队列-优先队列/Q71_Simplify_Path.h">
+			<Option target="Chapter6___"/>
+		</Unit>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter6-栈-队列-优先队列/Q94_Binary_Tree_Inorder_Traversal.h">
+			<Option target="Chapter6___"/>
+		</Unit>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter6-栈-队列-优先队列/main.cpp">
+			<Option target="Chapter6___"/>
+		</Unit>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter6-栈-队列-优先队列/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

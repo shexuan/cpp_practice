@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.15)
+project(Chapter6___)
+
+set(CMAKE_CXX_STANDARD 11)
+
+add_executable(Chapter6___ main.cpp Q20_Valid_Parentheses.h Q71_Simplify_Path.h Q150_Evaluate_Reverse_Polish_Notation.h Q144_Binary_Tree_Preorder_Traversal.h Q94_Binary_Tree_Inorder_Traversal.h Q145_Binary_Tree_Postorder_Traversal.h Q341_Flatten_Nested_List_Iterator.h Q102_Binary_Tree_Level_Order_Traversal.h Q103_Binary_Tree_Zigzag_Level_Order_Traversal.h Q199_Binary_Tree_Right_Side_View.h Q279_Perfect_Squares.h)

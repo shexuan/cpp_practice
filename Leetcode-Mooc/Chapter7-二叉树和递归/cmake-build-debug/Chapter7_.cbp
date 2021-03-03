@@ -110,6 +110,9 @@
 		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter7-二叉树和递归/Q226_Invert_Binary_Tree.h">
 			<Option target="Chapter7_"/>
 		</Unit>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter7-二叉树和递归/Q235_Lowest_Common_Ancestor_of_a_Binary_Search_Tree.h">
+			<Option target="Chapter7_"/>
+		</Unit>
 		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter7-二叉树和递归/Q257_Binary_Tree_Paths.h">
 			<Option target="Chapter7_"/>
 		</Unit>
@@ -117,6 +120,9 @@
 			<Option target="Chapter7_"/>
 		</Unit>
 		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter7-二叉树和递归/Q437_Path_Sum_III.h">
+			<Option target="Chapter7_"/>
+		</Unit>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter7-二叉树和递归/Q98_Validate_Binary_Search_Tree.h">
 			<Option target="Chapter7_"/>
 		</Unit>
 		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter7-二叉树和递归/main.cpp">

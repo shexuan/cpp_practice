@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="Chapter8_"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter8-递归和回溯法/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter8-递归和回溯法/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter8-递归和回溯法/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter8-递归和回溯法/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter8-递归和回溯法/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter8-递归和回溯法/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter8-递归和回溯法/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter8-递归和回溯法/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter8-递归和回溯法/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter8-递归和回溯法/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter8-递归和回溯法/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter8-递归和回溯法/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter8-递归和回溯法/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter8-递归和回溯法/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter8-递归和回溯法/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Chapter8_">
+				<Option output="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter8-递归和回溯法/cmake-build-debug/Chapter8_" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter8-递归和回溯法/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter8-递归和回溯法/cmake-build-debug/Makefile&quot;  VERBOSE=1 Chapter8_"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter8-递归和回溯法/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter8-递归和回溯法/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter8-递归和回溯法/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="Chapter8_/fast">
+				<Option output="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter8-递归和回溯法/cmake-build-debug/Chapter8_" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter8-递归和回溯法/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Library/Developer/CommandLineTools/usr/bin/../include/c++/v1"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/11.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter8-递归和回溯法/cmake-build-debug/Makefile&quot;  VERBOSE=1 Chapter8_/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter8-递归和回溯法/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter8-递归和回溯法/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter8-递归和回溯法/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter8-递归和回溯法/Q130_Surrounded_Regions.h">
+			<Option target="Chapter8_"/>
+		</Unit>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter8-递归和回溯法/Q131_Palindrome_Partitioning.h">
+			<Option target="Chapter8_"/>
+		</Unit>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter8-递归和回溯法/Q17_Letter_Combinations_of_a_Phone_Number.h">
+			<Option target="Chapter8_"/>
+		</Unit>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter8-递归和回溯法/Q200_Number_of_Islands.h">
+			<Option target="Chapter8_"/>
+		</Unit>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter8-递归和回溯法/Q216_Combination_Sum_III.h">
+			<Option target="Chapter8_"/>
+		</Unit>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter8-递归和回溯法/Q39_Combination_Sum.h">
+			<Option target="Chapter8_"/>
+		</Unit>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter8-递归和回溯法/Q401_Binary_Watch.h">
+			<Option target="Chapter8_"/>
+		</Unit>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter8-递归和回溯法/Q417_Pacific_Atlantic_Water_Flow.h">
+			<Option target="Chapter8_"/>
+		</Unit>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter8-递归和回溯法/Q463_Island_Perimeter.h">
+			<Option target="Chapter8_"/>
+		</Unit>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter8-递归和回溯法/Q46_Permutations.h">
+			<Option target="Chapter8_"/>
+		</Unit>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter8-递归和回溯法/Q47_Permutations_II.h">
+			<Option target="Chapter8_"/>
+		</Unit>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter8-递归和回溯法/Q695_Max_Area_of_Island.h">
+			<Option target="Chapter8_"/>
+		</Unit>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter8-递归和回溯法/Q77_Combinations.h">
+			<Option target="Chapter8_"/>
+		</Unit>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter8-递归和回溯法/Q78_Subsets.h">
+			<Option target="Chapter8_"/>
+		</Unit>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter8-递归和回溯法/Q79_Word_Search.h">
+			<Option target="Chapter8_"/>
+		</Unit>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter8-递归和回溯法/Q827_Making_A_Large_Island.h">
+			<Option target="Chapter8_"/>
+		</Unit>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter8-递归和回溯法/Q90_Subsets_II.h">
+			<Option target="Chapter8_"/>
+		</Unit>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter8-递归和回溯法/Q93_Restore_IP_Addresses.h">
+			<Option target="Chapter8_"/>
+		</Unit>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter8-递归和回溯法/main.cpp">
+			<Option target="Chapter8_"/>
+		</Unit>
+		<Unit filename="/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter8-递归和回溯法/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

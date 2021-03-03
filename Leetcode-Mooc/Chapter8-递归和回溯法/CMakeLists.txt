@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.15)
+project(Chapter8_)
+
+set(CMAKE_CXX_STANDARD 11)
+
+add_executable(Chapter8_ main.cpp Q17_Letter_Combinations_of_a_Phone_Number.h Q93_Restore_IP_Addresses.h Q46_Permutations.h Q47_Permutations_II.h Q77_Combinations.h Q39_Combination_Sum.h Q131_Palindrome_Partitioning.h Q216_Combination_Sum_III.h Q78_Subsets.h Q90_Subsets_II.h Q401_Binary_Watch.h Q79_Word_Search.h Q200_Number_of_Islands.h Q130_Surrounded_Regions.h Q417_Pacific_Atlantic_Water_Flow.h Q463_Island_Perimeter.h Q695_Max_Area_of_Island.h Q827_Making_A_Large_Island.h)

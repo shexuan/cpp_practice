@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/shexuan/cpp_practice/Leetcode-Mooc/Chapter9-动态规划/main.cpp
+iostream
+-
+string
+-
+vector
+-
+algorithm
+-
+
